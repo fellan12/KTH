@@ -4,3 +4,8 @@
 *.exe
 *.class
 *.ini
+*.classpath
+*.project
+*.settings
+*.bluej
+*.ctxt
