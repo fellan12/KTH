@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=name\ id
+comment0.target=Person(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ Return\ the\ full\ name\ of\ this\ person.\r\n
+comment2.params=replacementName
+comment2.target=void\ changeName(java.lang.String)
+comment2.text=\r\n\ Set\ a\ new\ name\ for\ this\ person.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getPersonID()
+comment3.text=\r\n\ Return\ the\ person\ ID\ of\ this\ person.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getLoginName()
+comment4.text=\r\n\ Return\ the\ login\ name\ of\ this\ person.\ The\ login\ name\ is\ a\ combination\r\n\ of\ the\ first\ four\ characters\ of\ the\ person's\ name\ and\ the\ first\ three\r\n\ characters\ of\ the\ person's\ ID\ number.\r\n
+numComments=5

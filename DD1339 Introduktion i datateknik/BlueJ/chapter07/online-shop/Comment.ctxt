@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=author\ text\ rating
+comment0.target=Comment(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Create\ a\ comment\ with\ all\ necessary\ details.\ The\ initial\ vote\ balance\ is\ 0.\r\n
+comment1.params=
+comment1.target=void\ upvote()
+comment1.text=\r\n\ Indicate\ that\ this\ comment\ is\ useful\ ('upvote').\ This\ is\ used\ when\ a\ reader\ clicks\r\n\ the\ 'Yes'\ button\ after\ the\ "Was\ this\ comment\ helpful?"\ quesion.\r\n
+comment2.params=
+comment2.target=void\ downvote()
+comment2.text=\r\n\ Indicate\ that\ this\ comment\ is\ not\ useful\ ('downvote').\ This\ is\ used\ when\ a\ reader\r\n\ clicks\ the\ 'No'\ button\ after\ the\ "Was\ this\ comment\ helpful?"\ quesion.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getAuthor()
+comment3.text=\r\n\ Return\ the\ author\ of\ this\ comment.\r\n
+comment4.params=
+comment4.target=int\ getRating()
+comment4.text=\r\n\ Return\ the\ rating\ of\ this\ comment.\r\n
+comment5.params=
+comment5.target=int\ getVoteCount()
+comment5.text=\r\n\ Return\ the\ vote\ count\ (balance\ of\ up\ and\ down-votes).\r\n
+comment6.params=
+comment6.target=java.lang.String\ getFullDetails()
+comment6.text=\r\n\ Return\ the\ full\ text\ and\ details\ of\ the\ comment,\ including\ \r\n\ the\ comment\ text,\ author\ and\ rating.\r\n
+numComments=7

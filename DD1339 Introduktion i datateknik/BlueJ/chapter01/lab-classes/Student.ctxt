@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=fullName\ studentID
+comment0.target=Student(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Create\ a\ new\ student\ with\ a\ given\ name\ and\ ID\ number.\r\n
+comment1.params=additionalPoints
+comment1.target=void\ addCredits(int)
+comment1.text=\r\n\ Add\ some\ credit\ points\ to\ the\ student's\ accumulated\ credits.\r\n
+comment2.params=
+comment2.target=int\ getCredits()
+comment2.text=\r\n\ Return\ the\ number\ of\ credit\ points\ this\ student\ has\ accumulated.\r\n
+comment3.params=
+comment3.target=void\ print()
+comment3.text=\r\n\ Print\ the\ student's\ name\ and\ ID\ number\ to\ the\ output\ terminal.\r\n
+numComments=4

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DrawDemo()
+comment0.text=\r\n\ Prepare\ the\ drawing\ demo.\ Create\ a\ fresh\ canvas\ and\ make\ it\ visible.\r\n
+comment1.params=
+comment1.target=void\ drawSquare()
+comment1.text=\r\n\ Draw\ a\ square\ on\ the\ screen.\r\n
+comment2.params=n
+comment2.target=void\ drawPolygon(int)
+comment2.text=\r\n\ Draw\ a\ square\ on\ the\ screen.\r\n
+comment3.params=
+comment3.target=void\ drawWheel()
+comment3.text=\r\n\ Draw\ a\ wheel\ made\ of\ many\ squares.\r\n
+comment4.params=pen
+comment4.target=void\ square(Pen)
+comment4.text=\r\n\ Draw\ a\ square\ in\ the\ pen's\ color\ at\ the\ pen's\ location.\r\n
+comment5.params=pen
+comment5.target=void\ polygon(Pen)
+comment5.text=\r\n\ Draw\ a\ square\ in\ the\ pen's\ color\ at\ the\ pen's\ location.\r\n
+comment6.params=
+comment6.target=void\ colorScribble()
+comment6.text=\r\n\ Draw\ some\ random\ squiggles\ on\ the\ screen,\ in\ random\ colors.\r\n
+comment7.params=
+comment7.target=void\ clear()
+comment7.text=\r\n\ Clear\ the\ screen.\r\n
+numComments=8

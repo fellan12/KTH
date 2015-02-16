@@ -1,0 +1,471 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"R",
+				"Response"
+			],
+			[
+				"url",
+				"urls"
+			],
+			[
+				"time",
+				"timeout"
+			],
+			[
+				"n",
+				"numcpu"
+			],
+			[
+				"Complex",
+				"complex128"
+			],
+			[
+				"wa",
+				"WaitGroup"
+			],
+			[
+				"Wait",
+				"WaitGroup"
+			],
+			[
+				"retun",
+				"returns"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"Fun",
+				"Funcs"
+			],
+			[
+				"com",
+				"ComplexFunc"
+			],
+			[
+				"m",
+				"match"
+			],
+			[
+				"wgp",
+				"WaitGroup"
+			],
+			[
+				"con",
+				"consumers"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"F",
+				"Fields"
+			],
+			[
+				"rune",
+				"runesArray"
+			],
+			[
+				"string",
+				"strings"
+			],
+			[
+				"Print",
+				"Println"
+			],
+			[
+				"an",
+				"answers"
+			],
+			[
+				"Prin",
+				"Println"
+			],
+			[
+				"Pri",
+				"Println"
+			],
+			[
+				"Pr",
+				"Println"
+			],
+			[
+				"a",
+				"answers"
+			],
+			[
+				"P",
+				"Produce"
+			],
+			[
+				"ch",
+				"ch"
+			],
+			[
+				"Duration",
+				"duration"
+			],
+			[
+				"wor",
+				"workCount"
+			],
+			[
+				"wo",
+				"workCount"
+			],
+			[
+				"eat",
+				"eatCount"
+			],
+			[
+				"sleep",
+				"sleepCount"
+			],
+			[
+				"S",
+				"Second"
+			],
+			[
+				"str",
+				"strconv"
+			],
+			[
+				"p",
+				"Println"
+			],
+			[
+				"ma",
+				"math"
+			],
+			[
+				"step",
+				"step2"
+			],
+			[
+				"set",
+				"step1"
+			],
+			[
+				"s",
+				"sqrt"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Program/SWI-Prolog/swipl/doc/windows.html",
+			"settings":
+			{
+				"buffer_size": 31954,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Matlab 2014a\n\n\nExpires: 2015-08-01\n\n\nFile Installation Key:\n 50579-11942-36856-01502-06563-19710-23715-55778-49777-54692-27272-10252-09503-32664-14989-01797-20426-25357\n\n Matlab 2014a\n\n\nExpires: 2015-08-01\n\nActivation Key: \n11612-09598-96694-07801-02589",
+			"file": "/C/Users/fella_000/Desktop/Mathlab 2014a.txt",
+			"file_size": 0,
+			"file_write_time": 130542200826221486,
+			"settings":
+			{
+				"buffer_size": 253,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 45.0,
+		"selected_items":
+		[
+		],
+		"width": 490.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Dropbox/KTH MAP/Mottagningen/Foo/Uppgift hemsida/Foo/index.html",
+		"/D/Dropbox/KTH MAP/Mottagningen/Foo/Uppgift hemsida/Foo/css/style.css",
+		"/D/Dropbox/KTH MAP/Mottagningen/Foo/Uppgift hemsida/Foo/js/skel.min.js",
+		"/C/Users/fella_000/AppData/Local/Temp/Rar$EXa0.105/index.html",
+		"/C/Users/fella_000/Desktop/Foo/index.html",
+		"/C/Users/fella_000/Desktop/Foo/css/style.css",
+		"/D/Dropbox/KTH MAP/Mottagningen/Foo/Uppgift hemsida/index.html",
+		"/D/Dropbox/KTH MAP/Mottagningen/Foo/Uppgift hemsida/css/style.css",
+		"/C/Users/fella_000/Desktop/Foo/LICENSE.txt",
+		"/C/Users/fella_000/Desktop/Foo/README.txt",
+		"/C/Users/fella_000/Desktop/Foo/js/skel.min.js",
+		"/C/Users/fella_000/Desktop/Foo/css/style-normal.css",
+		"/C/Users/fella_000/Desktop/Foo/css/style-narrower.css",
+		"/C/Users/fella_000/Desktop/Foo/css/style-narrow.css",
+		"/C/Users/fella_000/Desktop/Foo/css/style-mobilep.css",
+		"/C/Users/fella_000/Desktop/Foo/css/style-mobile.css",
+		"/C/Users/fella_000/Desktop/Foo/css/skel.css",
+		"/C/Users/fella_000/Desktop/Foo/css/font-awesome.min.css",
+		"/C/Users/fella_000/Desktop/gridly/readme.txt",
+		"/C/Users/fella_000/Desktop/Foo/left-sidebar.html",
+		"/C/Users/fella_000/Desktop/modpacks^AgrarianSkiesHQ^2_1_9^AgrarianSkiesHQServer/config/gendustry/readme.txt",
+		"/D/Dropbox/Hacking/Spotify-Netflix generator/Sporify, Netflix generator.txt",
+		"/C/Users/fella_000/Desktop/modpacks^AgrarianSkiesHQ^2_1_6^AgrarianSkiesHQServer/config/TinkersWorkshop.txt",
+		"/C/Users/fella_000/Desktop/modpacks^AgrarianSkiesHQ^2_1_6^AgrarianSkiesHQServer/config/hqm/lock.txt",
+		"/C/Users/fella_000/Desktop/modpacks^AgrarianSkiesHQ^2_1_6^AgrarianSkiesHQServer/ops.txt",
+		"/C/Users/fella_000/Desktop/modpacks^AgrarianSkiesHQ^2_1_6^AgrarianSkiesHQServer/banned-ips.txt",
+		"/C/Users/fella_000/Desktop/modpacks^AgrarianSkiesHQ^2_1_6^AgrarianSkiesHQServer/banned-players.txt",
+		"/C/Users/fella_000/Desktop/Saved_Conversation_ 08-59-55_16-05-14.txt",
+		"/C/Users/fella_000/Desktop/Saved_Conversation_ 09-05-29_16-05-14.txt",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Projects/INDA13 projekt/ChatClient/Rapport/Saved_Conversation_ 15-01-11_15-05-14.txt",
+		"/C/Users/fella_000/Desktop/Nytt textdokument.txt",
+		"/C/Users/fella_000/Desktop/Client.jar",
+		"/C/Users/fella_000/Desktop/Saved_Conversation_ 08-45-25_09-05-14.txt",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Projects/INDA13 projekt/ChatClient/INDA13 Projekt/Saved_Conversation.txt",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Projects/Inlämning 11 - Filer/src/Distances.txt",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Projects/Inlämning 11 - Filer/Text/Distances.txt",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Projects/Inlämning 9 - Parallel process/client.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Projects/Inlämning 9 - Parallel process/mathing.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Projects/Inlämning 9 - Parallel process/julia.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Projects/Inlämning 9 - Parallel process/server.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Projects/Inlämning 9 - Parallel process/test.txt",
+		"/C/Users/fella_000/Desktop/julia.go",
+		"/C/Users/fella_000/Desktop/juliafelix.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Projects/Inlämning 8 - Oracle/Oracle.go",
+		"/D/Program/FTB/versions/1.6.4/1.6.4.jar",
+		"/C/Users/fella_000/Desktop/towerdef.jar",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Projects/Inlämning 9 - Parallel process/julia2.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Projects/Inlämning 9 - Parallel process/julia2",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Projects/Inlämning 9 - Parallel process/Fractals",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Projects/Inlämning 8 - Oracle/Many2Many.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Projects/Inlämning 8 - Oracle/bug2.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Projects/Inlämning 8 - Oracle/bug1.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Projects/Inlämning 7 - Gorutiner/src/Projekt_Sum_of_Two/Sum_of_Two.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Inlämning 18 - Go/src/Projekt_Sum_of_Two/Sum_of_Two.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Inlämning 18 - Go/src/Projekt_Clock/Clock.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Inlämning 18 - Go/src/Projekt_Complex_Cube_Roots/Complex_roots.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Inlämning 18 - Go/src/Projekt_Fibonacci_Closure/Fibonacci.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Inlämning 18 - Go/src/Projekt_Maps/Maps.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Inlämning 18 - Go/src/Projekt_Slices/Slices.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Inlämning 18 - Go/src/Projekt_loop_func/Loops and functions.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Go/src/Projekt_Clock/Clock.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Go/src/Projekt_Complex_Cube_Roots/Complex_roots.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Go/src/Projekt_Maps/Maps.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Go/src/Projekt_Fibonacci_Closure/Fibonacci.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Go/src/Projekt_Slices/Slices.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Go/src/Projekt_Sum_of_Two/Sum_of_Two.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Go/src/Projekt_loop_func/Loops and functions.go",
+		"/C/Users/fella_000/Downloads/väckarklocka.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Go/src/test.go",
+		"/D/Dropbox/KTH MAP/Material/Introduktion i datateknik/Go/src/Test.Go"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Foo",
+			"<ul",
+			"font",
+			")) ",
+			")\n",
+			"string",
+			"04"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Program/SWI-Prolog/swipl/doc/windows.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/fella_000/Desktop/Mathlab 2014a.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								253
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "test.txt",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Dropbox\\KTH MAP\\Material\\Introduktion i datateknik\\Projects\\Inlämning 8 - Oracle\\Many2Many.go"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

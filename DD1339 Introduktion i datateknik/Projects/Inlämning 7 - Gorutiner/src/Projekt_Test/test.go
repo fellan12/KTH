@@ -1,0 +1,35 @@
+package main
+
+import	"fmt" 
+
+func main(){
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+	fmt.Println("hej")
+}

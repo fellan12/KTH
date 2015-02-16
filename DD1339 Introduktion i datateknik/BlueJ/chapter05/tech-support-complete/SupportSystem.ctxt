@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SupportSystem()
+comment0.text=\r\n\ Creates\ a\ technical\ support\ system.\r\n
+comment1.params=
+comment1.target=void\ start()
+comment1.text=\r\n\ Start\ the\ technical\ support\ system.\ This\ will\ print\ a\ welcome\ message\ and\ enter\r\n\ into\ a\ dialog\ with\ the\ user,\ until\ the\ user\ ends\ the\ dialog.\r\n
+comment2.params=
+comment2.target=void\ printWelcome()
+comment2.text=\r\n\ Print\ a\ welcome\ message\ to\ the\ screen.\r\n
+comment3.params=
+comment3.target=void\ printGoodbye()
+comment3.text=\r\n\ Print\ a\ good-bye\ message\ to\ the\ screen.\r\n
+numComments=4
