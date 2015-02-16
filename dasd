@@ -1,0 +1,6 @@
+[1mdiff --git a/DD1339 Introduktion i datateknik/Projects/INDA13 Projekt/ChatClient b/DD1339 Introduktion i datateknik/Projects/INDA13 Projekt/ChatClient[m
+[1m--- a/DD1339 Introduktion i datateknik/Projects/INDA13 Projekt/ChatClient[m	
+[1m+++ b/DD1339 Introduktion i datateknik/Projects/INDA13 Projekt/ChatClient[m	
+[36m@@ -1 +1 @@[m
+[31m-Subproject commit 62dffb54fd3a6cf17063385f1f2fcf304551fddc[m
+[32m+[m[32mSubproject commit 62dffb54fd3a6cf17063385f1f2fcf304551fddc-dirty[m

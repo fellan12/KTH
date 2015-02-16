@@ -1,0 +1,20 @@
+% Invalid test
+
+% Adjacency
+[[s1, [s2]],
+ [s2, [s1, s3]],
+ [s3, [s4]],
+ [s4, [s2]]].
+
+% Labels
+[[s1, [inactive]],
+ [s2, [active]],
+ [s3, [active, request]],
+ [s4, [active, response]]].
+
+% Start state
+s2.
+
+% Formula
+ax(active).
+
